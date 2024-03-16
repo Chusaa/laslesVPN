@@ -1,0 +1,9 @@
+@media (max-width: 500px) {
+  .location__heading {
+    font-size: 30px;
+  }
+  .location__desc {
+    margin-bottom: 70px;
+  }
+
+}
