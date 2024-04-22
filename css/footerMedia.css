@@ -1,0 +1,21 @@
+@media (max-width: 750px) {
+  .footer {
+    padding-bottom: 30px;
+  }
+  .footer__wrapper {
+    flex-direction: column;
+  }
+  .footer__sertification {
+    display: none;
+  }
+  .footer__sertification-bottom {
+    display: block;
+    margin-top: 50px;
+    align-self: center;
+  }
+  .footer__right {
+    max-width: 100%;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+}
